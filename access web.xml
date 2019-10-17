@@ -1,0 +1,8 @@
+<web-app>
+  <servlet>
+   <servlet-name>DApp</servlet-name>   <servlet-class>DServlet</servlet-class> 
+ </servlet>  
+<servlet-mapping>   <servlet-name>DApp</servlet-name>   
+<url-pattern>/cse</url-pattern>
+  </servlet-mapping> 
+</web-app> 
